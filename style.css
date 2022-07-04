@@ -21,11 +21,13 @@ h1 {
     padding-left: 5%;
     margin: 20px;
 
+
 }
 
 .half-width img {
     width: 100%;
     padding-right: 20px;
+
 }
 
 .link-button {
@@ -50,4 +52,28 @@ h1 {
 
 .exp-title {
     padding-left: 3%;
+}
+
+.amateur-exp {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 7px;
+    border-top: 7px solid navy;
+}
+
+.exp-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#amateur-prog {
+    border-top: 7px solid tomato;
+}
+
+#footer {
+    text-align: center;
 }
